@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PRASAMMM
-- 👀 I’m interested in sports and computeres 
-- 🌱 I’m currently learning coumputer science
-- 💞️ I’m looking to collaborate on developing myself and others
+- 👀 I’m interested in sports and computerss
+- 🌱 I’m currently majoring in coumputer science engineering
+- 💞️ I’m looking to collaborate on developing myself and others 
 - 📫 How to reach me :)
 
 <!---
